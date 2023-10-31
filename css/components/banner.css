@@ -1,0 +1,28 @@
+.banner{
+  background-image: url('/landing/images/background.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  color: white;
+  text-align: left;
+  padding: 180px 310px;
+}
+
+.banner p{
+  color: gray;
+  font-weight: 100;
+  font-size: 20px;
+  padding: 10px 0px;
+}
+
+.btn-green{
+  padding: 15px 35px;
+  background-color: green;
+  border-radius: 25px;
+  color: white;
+  font-weight: 600;
+  border: 1px solid green;
+}
+
+.btn-green:hover{
+  background-color: lightgreen;
+}

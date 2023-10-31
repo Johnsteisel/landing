@@ -1,0 +1,17 @@
+.footer li{
+  display: inline;
+  font-size: 30px;
+  padding: 10px;
+  color: lightgreen;
+}
+
+.footer ul{
+  padding: 0px;
+}
+.footer{
+  text-align: center;
+  background-color: rgb(30,30,30);
+  color: white;
+  font-size: 20px;
+  padding: 50px;
+}
